@@ -1,0 +1,451 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.design-item p {
+    font-size: 15px;
+}
+
+.Mobile-item p {
+    font-size: 15px;
+}
+
+.Barnding-item p {
+    font-size: 15px;
+}
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+/*-- header-scetion-area-start  --*/
+.header-scetion {
+    padding: 15px 0 ;
+    padding-bottom: 30px;
+}
+
+.header-left img {
+	width: 70%;
+	margin-top: -30px;
+}
+
+.header-left {
+	text-align: center;
+}
+
+
+.header-right{
+	margin-left: 0;
+	text-align: center;
+}
+
+.header-right h3 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.header-right h2 {
+    font-size: 25px;
+}
+
+
+.header-right p {
+    font-size: 11px;
+}
+
+/*-- header-scetion-area-end  --*/
+
+/*-- Services-scetion-area-start  --*/
+
+.Services-scetion {
+    padding: 30px 0;
+    padding-bottom: 5px;
+}
+
+
+.Services-header {
+    margin-top: 15px;
+}
+
+/*-- Services-scetion-area-end  --*/
+
+/*-- Services-scetion-area-start  --*/
+.Portfolio-scetion {
+    padding: 30px 0;
+}
+
+.Portfolio-header {
+    margin-top: 20px;
+}
+
+.Portfolio-item {
+    margin-top: 20px;
+}
+
+.Portfolio-bottom {
+    margin-top: 0;
+}
+
+.Make-left {
+    text-align: center;
+    margin-left: 0;
+}
+
+
+.Make-left h2 {
+    font-size: 25px;
+}
+
+.Make-scetion {
+    padding: 25px 0;
+}
+
+.Make-left p {
+    font-size: 11px;
+}
+
+
+
+/*-- Services-scetion-area-end  --*/
+
+/*-- footer-scetion-area-start  --*/
+.footer-scetion {
+    padding-top: 32px;
+    padding-bottom: 40px;
+}
+
+
+.footer-header h2 {
+    font-size: 20px;
+}
+
+
+.footer-header img {
+    width: 35px;
+    left: 15%;
+    margin-top: -10px;
+}
+
+.footer-item img {
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+}
+
+
+.footer-item h2 {
+    font-size: 13px;
+}
+
+
+.footer-item h3 {
+    font-size: 11px;
+}
+
+.footer-item p {
+    font-size: 8px;
+}
+
+
+.footer-dot img {
+    margin-top: 35px;
+}
+
+
+.footer-bottom img {
+    width: 35px;
+    left: 76%;
+    margin-top: -15px;
+}
+
+/*-- footer-scetion-area-end  --*/
+
+/*-- footer-menu-scetion-area-start  --*/
+.footer-menu-scetion {
+    padding: 25px 0;
+}
+
+.footer-menu ul li a {
+    font-size: 14px;
+}
+
+.footer-menu ul li {
+    padding: 0 2px;
+}
+
+.footer-icon ul li {
+    padding: 0 11px;
+}
+
+
+.Copyright-scetion {
+    padding: 10px 0;
+}
+
+.Copyright-wrapper p {
+	font-size: 14px;
+}
+/*-- footer-menu-scetion-area-end  --*/
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+/*-- header-scetion-area-start  --*/
+.header-scetion {
+    padding: 15px 0 ;
+    padding-bottom: 30px;
+}
+
+.header-left img {
+	width: 70%;
+	margin-top: -30px;
+}
+
+.header-left {
+	text-align: center;
+}
+
+
+.header-right{
+	margin-left: 0;
+	text-align: center;
+}
+
+.header-right h3 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.header-right h2 {
+    font-size: 25px;
+}
+
+
+.header-right p {
+    font-size: 14px;
+}
+
+/*-- header-scetion-area-end  --*/
+
+/*-- Services-scetion-area-start  --*/
+
+.Services-scetion {
+    padding: 30px 0;
+    padding-bottom: 5px;
+}
+
+
+.Services-header {
+    margin-top: 15px;
+}
+
+/*-- Services-scetion-area-end  --*/
+
+/*-- Services-scetion-area-start  --*/
+.Portfolio-scetion {
+    padding: 30px 0;
+}
+
+.Portfolio-header {
+    margin-top: 20px;
+}
+
+.Portfolio-item {
+    margin-top: 20px;
+}
+
+.Portfolio-bottom {
+    margin-top: 0;
+}
+
+.Make-left {
+    text-align: center;
+    margin-left: 0;
+}
+
+
+.Make-left h2 {
+    font-size: 25px;
+}
+
+.Make-scetion {
+    padding: 25px 0;
+}
+
+.Make-left p {
+    font-size: 13px;
+}
+
+
+
+/*-- Services-scetion-area-end  --*/
+
+/*-- footer-scetion-area-start  --*/
+.footer-scetion {
+    padding-top: 32px;
+    padding-bottom: 40px;
+}
+
+
+.footer-header h2 {
+    font-size: 20px;
+}
+
+
+.footer-header img {
+    width: 35px;
+    left: 15%;
+    margin-top: -10px;
+}
+
+.footer-item img {
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+}
+
+
+.footer-item h2 {
+    font-size: 13px;
+}
+
+
+.footer-item h3 {
+    font-size: 11px;
+}
+
+.footer-item p {
+    font-size: 10px;
+}
+
+
+.footer-dot img {
+    margin-top: 35px;
+}
+
+
+.footer-bottom img {
+    width: 35px;
+    left: 76%;
+    margin-top: -15px;
+}
+
+/*-- footer-scetion-area-end  --*/
+
+/*-- footer-menu-scetion-area-start  --*/
+.footer-menu-scetion {
+    padding: 25px 0;
+}
+
+.footer-menu ul li a {
+    font-size: 14px;
+}
+
+.footer-menu ul li {
+    padding: 0 2px;
+}
+
+.footer-icon ul li {
+    padding: 0 11px;
+}
+
+
+.Copyright-scetion {
+    padding: 10px 0;
+}
+
+.Copyright-wrapper p {
+	font-size: 14px;
+}
+/*-- footer-menu-scetion-area-end  --*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
